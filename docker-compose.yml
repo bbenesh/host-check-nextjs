@@ -1,8 +1,6 @@
 version: '2'
 services:
-  node:
-    env_file:
-      - .env.local
+  app:
     networks:
       - amazeeio-network
       - default
