@@ -3,7 +3,8 @@ import { useEffect, useState } from 'react';
 
 let imageFromEdge = {
   "value": {
-    "src": "https://edge.sitecorecloud.io/sitecoresaa94c3-xmcloudintr2ef7-production-9f57/media/Project/Sugcon/shared/man-with-phone-and-umbrella.jpg?h=392&iar=0&w=707",
+    // "src": "https://edge.sitecorecloud.io/sitecoresaa94c3-xmcloudintr2ef7-production-9f57/media/Project/Sugcon/shared/man-with-phone-and-umbrella.jpg?h=392&iar=0&w=707",
+    "src": "https://amazeeio.cdn.prismic.io/amazeeio/acb69a40-22f4-4ab6-8dd3-347483b1a592_amazee-io-Simply-Push-Your-Code.svg",
     "alt": "",
     "width": "707",
     "height": "392"
