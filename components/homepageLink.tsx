@@ -19,7 +19,7 @@ export default function HomepageLink({pageLink, pageTitle, pageDescription, id, 
                 <h2 className={`mb-3 text-xl font-semibold`}>
                     {pageTitle}
                 </h2>
-                <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-gray-200`}>
+                <p className={`m-0 max-w-[30ch] text-sm opacity-80 text-gray-200`}>
                     {pageDescription}
                 </p>
             </div>
